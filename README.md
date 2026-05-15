@@ -1,89 +1,66 @@
-# 👋 Hi, I’m Chizhinime (Chizhi)
+# Hi, I'm Chizhi.Dev 👋
 
-🚀 Frontend Developer | React & Next.js  
-🤖 AI Enthusiast | Problem Solver  
-🌍 Building tech for impact
+### Full-Stack Developer | Builder | Product Creator
 
----
-
-## 🌱 About Me
-
-I’m a passionate **frontend developer** with a growing interest in **AI-powered web applications**.  
-I enjoy turning ideas into clean, responsive, and meaningful digital experiences.
-
-I’m currently:
-- Building real-world projects with **React, Next.js, TypeScript, and Tailwind CSS**
-- Exploring **AI integration in web apps**
-- Growing my portfolio and sharing my journey publicly
-- Focused on learning by **building consistently**
-
-I believe in **progress over perfection** and using technology to create real social impact.
+I build digital products that solve real problems and can turn ideas into income.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React, Next.js
-- TypeScript
-- Tailwind CSS
-
-**Backend & Tools**
-- Node.js (basic)
-- Supabase
-- Git & GitHub
-- Vercel
-
-**AI / Data (Learning & Exploring)**
-- Python
-- Hugging Face
-- AI APIs
+- 💻 Full-stack developer focused on web applications & digital products  
+- 🌱 Currently building projects and learning by shipping real work  
+- 🧠 Interested in startups, SaaS ideas, and scalable web systems  
+- ⚡ I enjoy turning ideas into working products users can interact with  
 
 ---
 
-## 📌 Featured Projects
+## 🧩 What I’m Working On
 
-🚧 *More projects coming soon as I build in public*
-
-- **SkillLens** – AI-powered career mapping & resume optimization tool  
-- **ChizhiDigital** – Digital product marketplace for developers  
-- **SafeCity.net** – Community-driven safety reporting platform  
-- **AI Subtitle Generator** – Generates and translates subtitles from video content  
-
-👉 Check my repositories to see live demos and source code.
+- Building small web apps to improve my product thinking  
+- Creating portfolio projects that solve real-world problems  
+- Exploring ideas that can become income-generating products  
 
 ---
 
-## 📈 What I’m Working On Now
+## 🛠️ Tech Stack
 
-- Building a **professional developer portfolio**
-- Creating **content around coding & growth**
-- Improving my **problem-solving & system design skills**
-- Preparing for global opportunities & scholarships
+### Frontend
+HTML • CSS • JavaScript • React
 
----
+### Backend
+Node.js • Express
 
-## 🤝 Let’s Connect
+### Database
+MongoDB • SQL
 
-- GitHub: [github.com/iamchizhi](https://github.com/iamchizhi)
-- LinkedIn: *(add when ready)*
-- Twitter / X: *(optional)*
-- Email: *(optional)*
-
-I’m open to:
-- Collaboration
-- Frontend roles & internships
-- Open-source contributions
-- Learning together 🚀
+### Tools
+Git • GitHub • REST APIs • VS Code
 
 ---
 
-## ✨ Fun Fact
+## 📊 GitHub Stats
 
-I’m self-taught, highly curious, and committed to **building a better future with code**.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchizhi&show_icons=true&theme=dark&hide_border=true)
 
-> “Small steps daily create massive results.”
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchizhi&layout=compact&theme=dark&hide_border=true)
 
-Thanks for stopping by 😊  
-⭐ Don’t forget to check out my projects!
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- Twitter/X: https://x.com/YOUR_HANDLE  
+- Instagram: https://instagram.com/YOUR_HANDLE  
+- Email: YOUR_EMAIL
+
+---
+
+## 💡 Current Focus
+
+> Building real projects. Learning through execution. Turning code into products.
+
+---
+
+⭐ *Always building. Always improving.*
