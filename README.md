@@ -1,66 +1,49 @@
-# Hi, I'm Chizhi.Dev 👋
+<h1 align="center">Hey 👋 What's Up? I'm iamchizhi</h1>
 
-### Full-Stack Developer | Builder | Product Creator
+###
 
-I build digital products that solve real problems and can turn ideas into income.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+</div>
 
----
+###
 
-## 🚀 About Me
+<div align="center">
+  <a href="https://github.com/iamchizhi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo" />
+  </a>
 
-- 💻 Full-stack developer focused on web applications & digital products  
-- 🌱 Currently building projects and learning by shipping real work  
-- 🧠 Interested in startups, SaaS ideas, and scalable web systems  
-- ⚡ I enjoy turning ideas into working products users can interact with  
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
 
----
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
 
-## 🧩 What I’m Working On
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
 
-- Building small web apps to improve my product thinking  
-- Creating portfolio projects that solve real-world problems  
-- Exploring ideas that can become income-generating products  
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="twitch logo" />
 
----
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="devto logo" />
+</div>
 
-## 🛠️ Tech Stack
+###
 
-### Frontend
-HTML • CSS • JavaScript • React
-
-### Backend
-Node.js • Express
-
-### Database
-MongoDB • SQL
-
-### Tools
-Git • GitHub • REST APIs • VS Code
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchizhi&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchizhi&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- Twitter/X: https://x.com/YOUR_HANDLE  
-- Instagram: https://instagram.com/YOUR_HANDLE  
-- Email: YOUR_EMAIL
-
----
-
-## 💡 Current Focus
-
-> Building real projects. Learning through execution. Turning code into products.
-
----
-
-⭐ *Always building. Always improving.*
+<div align="center">
+  <h3>@iamchizhi</h3>
+</div>
